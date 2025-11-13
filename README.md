@@ -6,6 +6,7 @@
 
 **Author:** Bao Luong  
 **Email:** baodevops21@gmail.com
+**LinkedIn:** [linkedin.com/in/bluong21](https://www.linkedin.com/in/bluong21)  
 
 ---
 
