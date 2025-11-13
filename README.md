@@ -7,6 +7,7 @@
 👨‍💻 Author: Bao Luong
 🔗 LinkedIn: linkedin.com/in/bluong21
 📧 Email: baodevops21@gmail.com
+
 ---
 
 ## VPC Monitoring with Flow Logs
